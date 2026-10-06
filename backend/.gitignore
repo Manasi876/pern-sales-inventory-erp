@@ -1,0 +1,12 @@
+node_modules/
+dist/
+coverage/
+.venv/
+__pycache__/
+*.pyc
+target/
+.idea/
+.vscode/
+.env
+frontend/node_modules/
+backend/target/
